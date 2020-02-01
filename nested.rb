@@ -86,7 +86,7 @@ def adding_matz
         }
      }
      
-    :yukihiro_matsumoto = {}
+    :yukihiro_matsumoto => {}
     
 end
 
